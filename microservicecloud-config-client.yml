@@ -11,7 +11,7 @@ server:
 spring: 
   profiles: dev
   application: 
-    name: microservicecloud-config-client-lalala
+    name: microservicecloud-config-client-hahaha
 
 eureka: 
   client: 
